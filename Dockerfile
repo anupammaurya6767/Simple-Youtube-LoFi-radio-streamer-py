@@ -9,7 +9,7 @@ RUN apt-get update && \
 
 WORKDIR /app
 
-RUN git clone https://github.com/nordost8/Simple-Youtube-LoFi-radio-streamer-py.git
+RUN git clone https://github.com/anupammaurya6767/Simple-Youtube-LoFi-radio-streamer-py.git
 
 WORKDIR /app/Simple-Youtube-LoFi-radio-streamer-py
 
